@@ -195,6 +195,7 @@ External API behaviour is safely simulated using `unittest.mock` to avoid consum
 ### Running the Test Suite
 
 Run all tests using the automated test runner:
+python tests/run_tests.py
 
 ### Example Output
 
