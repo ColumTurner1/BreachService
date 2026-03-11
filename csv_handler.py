@@ -1,6 +1,6 @@
 import csv
 from typing import List
-from breach_service import BreachResult
+from src.breach_service import BreachResult
 
 
 def read_emails(file_path: str) -> List[str]:

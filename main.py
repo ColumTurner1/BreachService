@@ -1,6 +1,6 @@
-from core import Core
-from breach_service import BreachService
-from csv_handler import read_emails, write_results
+from src.core import Core
+from src.breach_service import BreachService
+from src.csv_handler import read_emails, write_results
 
 
 def main():
