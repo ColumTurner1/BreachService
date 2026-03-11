@@ -1,0 +1,17 @@
+timestamp,test_name,result
+2026-03-11 17:15:24.476415,test_check_email_429_raises_after_retries (tests.test_breach_service.TestBreachService.test_check_email_429_raises_after_retries),PASS
+2026-03-11 17:15:24.476415,test_check_email_network_error_raises (tests.test_breach_service.TestBreachService.test_check_email_network_error_raises),PASS
+2026-03-11 17:15:24.476415,test_check_email_no_search_id_returns_false (tests.test_breach_service.TestBreachService.test_check_email_no_search_id_returns_false),PASS
+2026-03-11 17:15:24.476415,test_check_email_success_breached_false_when_no_records (tests.test_breach_service.TestBreachService.test_check_email_success_breached_false_when_no_records),PASS
+2026-03-11 17:15:24.476415,test_check_email_success_breached_true (tests.test_breach_service.TestBreachService.test_check_email_success_breached_true),PASS
+2026-03-11 17:15:24.476415,test_invalid_email_returns_false_without_api_call (tests.test_breach_service.TestBreachService.test_invalid_email_returns_false_without_api_call),PASS
+2026-03-11 17:15:24.476415,test_csv_write (tests.test_csv_handler.TestCSVHandler.test_csv_write),PASS
+2026-03-11 17:15:24.476415,test_read_emails (tests.test_csv_handler.TestCSVHandler.test_read_emails),PASS
+2026-03-11 17:15:24.476415,test_write_results_creates_header (tests.test_csv_handler.TestCSVHandler.test_write_results_creates_header),PASS
+2026-03-11 17:15:24.476415,test_invalid_email (tests.test_email_validation.TestEmailValidation.test_invalid_email),PASS
+2026-03-11 17:15:24.476415,test_invalid_email_missing_at_symbol (tests.test_email_validation.TestEmailValidation.test_invalid_email_missing_at_symbol),PASS
+2026-03-11 17:15:24.476415,test_invalid_email_missing_domain (tests.test_email_validation.TestEmailValidation.test_invalid_email_missing_domain),PASS
+2026-03-11 17:15:24.476415,test_valid_email (tests.test_email_validation.TestEmailValidation.test_valid_email),PASS
+2026-03-11 17:15:24.476415,test_parse_empty_response (tests.test_parser.TestParser.test_parse_empty_response),PASS
+2026-03-11 17:15:24.476415,test_parse_response (tests.test_parser.TestParser.test_parse_response),PASS
+2026-03-11 17:15:24.476415,test_parse_response_deduplicates_names (tests.test_parser.TestParser.test_parse_response_deduplicates_names),PASS
