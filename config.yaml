@@ -1,0 +1,12 @@
+api:
+  base_url: "https://free.intelx.io"
+  timeout: 10
+  rate_limit_per_minute: 50
+
+logging:
+  level: INFO
+  file: breach_tool.log
+
+retry:
+  attempts: 3
+  backoff_seconds: 2

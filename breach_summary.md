@@ -1,0 +1,54 @@
+# Breach Summary Report
+
+## Overview
+
+- **Total Emails Analysed:** 4
+- **Breached Emails:** 3
+- **Breach Rate:** 75.00%
+
+## Top Breach Sources
+
+- **Whois**: 3
+- **usenet-comp.lang**: 1
+- **CrackedTO.7z**: 1
+- **usenet-free.uk**: 1
+- **discordgg-dump.sql**: 1
+- **usenet-comp.os**: 1
+- **https:**: 1
+- **usenet-rec.music**: 1
+- **Collection 1**: 1
+- **DNSTXT records**: 1
+- **CompilationOfManyBreaches**: 1
+- **Twitter Full**: 1
+- **Modbsolutions.com**: 1
+- **seo**: 1
+- **12 671 000 CORP**: 1
+- **EPA.rar**: 1
+- **Collection #2-#5 &amp**: 1
+- **Antipublic**: 1
+- **Apollo**: 1
+- **mails**: 1
+- **Netprospex**: 1
+- **Adobe October 2013**: 1
+- **onliner**: 1
+- **linkedin**: 1
+- **pureincubation.com**: 1
+- **uk 4kk**: 1
+- **lnkdin 19m 2020**: 1
+- **DB**: 1
+- **OnlinerSpambot**: 1
+- **[MA]41.250.220.224.rar**: 1
+- **OnlinerSpambot.rar**: 1
+- **UK-66K-MAIL-PASS**: 1
+- **10.8KK DUMP MAIL-PASS &amp**: 1
+- **CORP**: 1
+- **MULO**: 1
+- **LinkedIn.rar**: 1
+- **LinkedIn All 2021.rar**: 1
+- **UK 300K Full Verified Whatsapp 100% 18 AUG.xlsx**: 1
+- **odigital.cc**: 1
+- **PeopleDataLabs**: 1
+- **Dropbox.com.rar**: 1
+- **stuffandthings**: 1
+- **whois2013**: 1
+- **CORP APB 002**: 1
